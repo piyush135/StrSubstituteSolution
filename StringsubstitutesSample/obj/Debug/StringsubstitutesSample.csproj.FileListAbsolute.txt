@@ -1,0 +1,4 @@
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringsubstitutesSample\bin\Debug\StringsubstitutesSample.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringsubstitutesSample\bin\Debug\StringsubstitutesSample.pdb
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringsubstitutesSample\obj\Debug\StringsubstitutesSample.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringsubstitutesSample\obj\Debug\StringsubstitutesSample.pdb

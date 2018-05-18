@@ -1,0 +1,16 @@
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\StringSubstitutesTest.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\StringSubstitutesTest.pdb
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\Castle.Core.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\Moq.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\StringsubstitutesSample.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\System.ValueTuple.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\StringsubstitutesSample.pdb
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\Castle.Core.xml
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\Moq.pdb
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\Moq.xml
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\bin\Debug\System.ValueTuple.xml
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\obj\Debug\StringSubstitutesTest.csprojResolveAssemblyReference.cache
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\obj\Debug\StringSubstitutesTest.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\StringsubstitutesSample\StringSubstitutesTest\obj\Debug\StringSubstitutesTest.pdb
